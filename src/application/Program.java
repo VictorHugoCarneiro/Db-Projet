@@ -1,9 +1,6 @@
 package application;
 
 
-
-
-
 import model.entities.Department;
 import model.entities.Seller;
 
